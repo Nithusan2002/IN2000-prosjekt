@@ -1,0 +1,42 @@
+package no.uio.ifi.in2000.prosjekt51
+
+const val MAX_HEIGHT = 100_000_000
+const val INVALID_GRIB = -1
+const val DEFAULT_COORDS = "-500"
+
+
+// Default critical values
+
+const val CRITICAL_WIND_SHEAR = 24.5 // m/s
+const val CRITICAL_WIND_GUST = 8.6 // m/s
+const val CRITICAL_WIND_ALTITUDE = 17.2 // m/s
+
+const val CRITICAL_CLOUDCOVER_HIGHALT = 15 // %
+const val CRITICAL_CLOUDCOVER_LOWALT = 5 // %
+const val CRITICAL_FOG = 0 // %
+
+const val CRITICAL_PRECIPITATION = 0 // mm
+const val CRITICAL_AIR_HUMIDITY = 75 // %
+const val CRITICAL_DEW_POINT_TEMP = 15 // Celsius
+
+// 80% of critical values
+
+const val CRITICAL_WIND_SHEAR_80 = CRITICAL_WIND_SHEAR*0.8 // m/s
+const val CRITICAL_WIND_GUST_80 = CRITICAL_WIND_GUST*0.8 // m/s
+const val CRITICAL_WIND_ALTITUDE_80 = CRITICAL_WIND_ALTITUDE*0.8 // m/s
+
+const val CRITICAL_CLOUDCOVER_HIGHALT_80 = CRITICAL_CLOUDCOVER_HIGHALT*0.8 // %
+const val CRITICAL_CLOUDCOVER_LOWALT_80 = CRITICAL_CLOUDCOVER_LOWALT*0.8 // %
+const val CRITICAL_FOG_80 = CRITICAL_FOG*0.8 // %
+
+const val CRITICAL_PRECIPITATION_80 = CRITICAL_PRECIPITATION*0.8 // mm
+const val CRITICAL_AIR_HUMIDITY_80 = CRITICAL_AIR_HUMIDITY*0.8 // %
+const val CRITICAL_DEW_POINT_TEMP_80 = CRITICAL_DEW_POINT_TEMP*0.8 // Celsius
+
+
+// Grib limits
+
+const val LAT_NORTH_LIMIT = 64.25
+const val LAT_SOUTH_LIMIT = 55.35
+const val LON_EAST_LIMIT = 14.51
+const val LON_WEST_LIMIT = -1.45
