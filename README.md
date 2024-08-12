@@ -23,4 +23,12 @@ avgjøre om det er forsvarlig å gjennomføre en rakettoppskytning eller ei.
 - [Kotlin Serialization](https://kotlinlang.org/docs/serialization.html)
 - [Material Design 3](https://m3.material.io/)
 
+## Bilder av appen
+<img src="https://github.com/user-attachments/assets/864711eb-cbfa-4327-8d8a-afa1d5d5826e" alt="RakettApp_SearchScreen" width="200"/>
+<img src="https://github.com/user-attachments/assets/f2fef5fd-eedc-4f5d-ab9f-6c435594c6f2" alt="RakettApp_Resultscreen" width="200"/>
+<img src="https://github.com/user-attachments/assets/2b26d59e-0799-4f75-9ace-fd299893682b" alt="RakettApp_Map" width="200"/>
+<img src="https://github.com/user-attachments/assets/ea63cb52-ce46-4c97-a6f5-98cd1dbb7529" alt="RakettApp_LaunchWindows" width="200"/>
+<img src="https://github.com/user-attachments/assets/9e49eb94-2677-488c-bb4a-b9dd2b1fcc39" alt="RakettApp_Favorites" width="200"/>
+<img src="https://github.com/user-attachments/assets/ebd715a0-2c53-49b8-89d3-7969cab4f4b2" alt="RakettApp_Settings" width="200"/>
+
 
